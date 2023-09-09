@@ -1,4 +1,4 @@
-# Spindrift: Application for Surfing Data Visualization and Predictive Analytics
+# Spindrift: Surfing Data Visualization and Predictive Analytics
 
 ![Banner.png](https://github.com/kanedeiley/Spindrift/blob/main/Banner.png)
 
