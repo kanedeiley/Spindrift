@@ -1,6 +1,6 @@
 # Spindrift: Surfing Data Visualization and Predictive Analytics
 
-!
+!Banner.png
 
 ## Table of Contents
 
