@@ -1,6 +1,6 @@
 # Spindrift: Surfing Data Visualization and Predictive Analytics
 
-!Banner.png
+![Banner.png](https://github.com/kanedeiley/Spindrift/blob/main/Banner.png)
 
 ## Table of Contents
 
