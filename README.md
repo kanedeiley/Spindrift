@@ -18,8 +18,9 @@ Welcome to the **Diddy Bop Annual March Madness Tournament!** This is your chanc
 ## 🏆 **Scoring Breakdown**
 | Round | Selection Type | Points |
 |--------|------------------|---------|
-| First Round | Cinderella win (11-16 seed) | 5 points per win |
-| Sweet 16 | Cinderella reaches Sweet 16 | 10 bonus points |
+| First Round | Cinderella win in first round | 5 points per win |
+| Round of 32 | Cinderella reaches round of 32 | 10 bonus points per win |
+| Sweet 16 | Cinderella reaches Sweet 16 | 15 bonus points |
 | Elite 8 | Correct pick | 10 points each |
 | Final 4 | Correct pick | 20 points each |
 | Championship Game | Correct pick | 30 points each |
