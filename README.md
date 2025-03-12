@@ -7,7 +7,8 @@ Welcome to the **Diddy Bop Annual March Madness Tournament!** This is your chanc
 ### **1️⃣ Cinderella Selections (11-16 Seeds)**
 - Pick **one** Cinderella team (**seed 11-16**) from each of the **four regions**.  
 - For every **first-round upset win** (defeating a higher seed), earn **5 points**.  
-- If your Cinderella reaches the **Sweet 16**, earn **10 bonus points**.  
+- For every **second-round upset win** (defeating a higher seed), earn **10 points**.  
+- If your Cinderella reaches the **Sweet 16**, earn **15 bonus points**.  
 
 ### **2️⃣ Elite 8, Final 4 & Champion Picks**
 - Pick **your Elite 8 teams** → Earn **10 points per correct team**.  
