@@ -35,4 +35,8 @@ Welcome to the **Diddy Bop Annual March Madness Tournament!** This is your chanc
 - The player with the **highest total points** at the end of the tournament **wins**.  
 - Tiebreaker: **Closest prediction to the total points scored in the Championship Game.**  
 
+## 🔎 **Clairfying information**
+- This site is made by Kane Deiley so be aware of it's shotty nature
+- Picks do not have to carry over from one round to another. Remember this is **Madness**
+
 **Good luck and let the madness begin!** 🏀🔥  
